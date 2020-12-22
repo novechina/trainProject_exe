@@ -49,6 +49,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2859941" />
   </component>
@@ -202,14 +205,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1608604048064" />
-    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1608604472352">
+    <state x="311" y="0" key="CommitChangelistDialog2" timestamp="1608604710671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608604472352" />
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1608604707535">
+    <state x="311" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608604710671" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1608604738283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1608604707535" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1608604738283" />
     <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1608604405918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -226,14 +229,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608604405918" />
+    <state x="562" y="87" key="RollbackChangesDialog" timestamp="1608604768532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="562" y="87" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608604768532" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1608604775042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608604775042" />
     <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1608604324355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608604324355" />
-    <state x="489" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608603966622">
+    <state x="489" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608604777748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="489" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1608603966622" />
+    <state x="489" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1608604777748" />
     <state x="498" y="268" key="git4idea.ui.GitResetDialog" timestamp="1608604400617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
